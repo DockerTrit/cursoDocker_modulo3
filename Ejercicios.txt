@@ -7,3 +7,9 @@ Crear un plantilla para la automatizacion del despliegue de los siguientes servi
   El contenido de la pagina web tendrá que estar en un volumen llamado web.
   El contenido de la base de datos tendrá que estar en un volumen llamado db.
   Tiene que ser accessible desde el puerto 80
+
+
+
+#Info
+
+Los ejercicios se deben de entregar en caso de ser codigo subiendolo al repositorio en caso de imagenes, subir dichas imagenes al repositorio.
